@@ -1,2 +1,14 @@
 # neural_network
-neural netword for recognizing something in images
+
+## Описание
+Это нейронная сеть для определение классов
+
+## Технологии
+- Python
+- tensorflow
+- keras
+
+## Установка и запуск
+1. Установить Python
+2. Установить необходимые библиотеки
+3. Загрузить код и запустить его
